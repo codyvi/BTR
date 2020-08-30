@@ -10,8 +10,8 @@
               <h4 slot="title" class="card-title">Register</h4>
               <md-field class="md-form-group" slot="inputs">
                 <md-icon>face</md-icon>
-                <label>First Name...</label>
-                <md-input v-model="firstname"></md-input>
+                <label>Full Name...</label>
+                <md-input v-model="fullName"></md-input>
               </md-field>
                 <md-field class="md-form-group" slot="inputs">
                 <md-icon>account_circle</md-icon>
